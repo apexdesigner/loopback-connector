@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector",
+  "name": "@apexdesigner/loopback-connector",
   "version": "6.1.3",
   "description": "Building blocks for LoopBack connectors",
   "engines": {
